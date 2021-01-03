@@ -1,0 +1,16 @@
+{
+  "name": "studyproject",
+  "version": "1.0.0",
+  "description": "study project for cypress automation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pradnyan Bhilare",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^6.1.0",
+    "cypress-file-upload": "^4.1.1",
+    "cypress-xpath": "^1.6.1"
+  }
+}

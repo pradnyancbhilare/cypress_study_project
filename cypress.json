@@ -1,0 +1,11 @@
+{
+  "baseUrl": "https://webdriveruniversity.com/",
+  "chromeWebSecurity": false,
+  "defaultCommandTimeout": 10000,
+  "ignoreTestFiles": "**/other/*",
+  "env": {
+    "first_name": "Pradnyan",
+    "webdriveruni_homepage": "https://webdriveruniversity.com/"
+  },
+  "projectId": "coneeh"
+}
